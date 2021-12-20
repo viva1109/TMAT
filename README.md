@@ -21,7 +21,7 @@ Written and maintained by Kangjin Kim.
 <b>Download</b>
 <table>
 <tr><td><a href="http://viva1109.iptime.org/RFunctions/FunctionsTMAT/TMAT.R" download>TMAT.R</a></td><td>&emsp;R function for TMAT</td></tr>
-<tr><td><a href="http://viva1109.iptime.org/paper/TMAT/Manual.html">User Reference Guide</a></td><td>&emsp;A description for R function and example code</td></tr>
+<tr><td><a href="http://viva1109.iptime.org//Manual.html">User Reference Guide</a></td><td>&emsp;A description for R function and example code</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/otu_comp_new_silva.txt"  download>Example metagenome data file</a></td><td>&emsp;An example metagenome data</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/pheno_togo.csv"  download>Example metadata file</a></td><td>&emsp;An example metadata</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/97_otus.tre"  download>Silva 128 database tree file</a></td><td>&emsp;The reference phylogenetic tree of Silva 128 database</td></tr>
