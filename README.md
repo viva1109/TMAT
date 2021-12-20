@@ -18,7 +18,6 @@ Sungho Won, Ph.D &lt;won1@snu.ac.kr&gt;<br />
 Written and maintained by Kangjin Kim.
 </p>
 
-<b>Download</b>
 <table>
 <tr><td><a href="http://viva1109.iptime.org/RFunctions/FunctionsTMAT/TMAT.R" download>TMAT.R</a></td><td>&emsp;R function for TMAT</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/Manual.html">User Reference Guide</a></td><td>&emsp;A description for R function and example code</td></tr>
