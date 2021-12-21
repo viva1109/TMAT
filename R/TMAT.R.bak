@@ -1,6 +1,6 @@
-source("https://raw.githubusercontent.com/viva1109/TMAT/main/R/Funcs_tree_related.R",encoding = "UTF-8")
-source("https://raw.githubusercontent.com/viva1109/TMAT/main/R/Funcs_TMAT_statistics.R",encoding = "UTF-8")
-source("https://raw.githubusercontent.com/viva1109/TMAT/main/R/Plot_TMAT.R",encoding = "UTF-8")
+source("R/Funcs_tree_related.R",encoding = "UTF-8")
+source("R/Funcs_TMAT_statistics.R",encoding = "UTF-8")
+source("R/Plot_TMAT.R",encoding = "UTF-8")
 
 TMAT<-function(Data_Read,Pheno,Tree,Taxonomy_Input,Response_Type="categorical",ncore=1,db="silva",TestType="Chi-squared",fdr_cutoff=0.05,plot=T){
   # browser()
