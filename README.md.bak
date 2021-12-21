@@ -20,8 +20,9 @@ Written and maintained by Kangjin Kim.
 
 <table>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/Manual.html">User Reference Guide</a></td><td>&emsp;A description for R function and example code</td></tr>
-<tr><td><a href="https://github.com/viva1109/TMAT/tree/main/data"  download>Example metagenome data files and metadata file</a></td><td>&emsp;An example metagenome data</td></tr>
-<tr><td><a href="https://github.com/viva1109/TMAT/tree/main/tree"  download>Tree file based on Silva 128 and EzBiocloud database</a></td><td>&emsp;The reference phylogenetic tree of Silva 128 database</td></tr>
+<tr><td><a href="http://viva1109.iptime.org/paper/TMAT/otu_comp_new_silva.txt"  download>Example metagenome data files</a></td><td>&emsp;An example metagenome data</td></tr>
+<tr><td><a href="http://viva1109.iptime.org/paper/TMAT/pheno_togo.csv"  download>Example metadata files</a></td><td>&emsp;An example metadata</td></tr>
+<tr><td><a href="http://viva1109.iptime.org/paper/TMAT/97_otus.tre"  download>Tree file based on Silva 128 and EzBiocloud database</a></td><td>&emsp;The reference phylogenetic tree of Silva 128 database</td></tr>
 </table>
 <br />
 
