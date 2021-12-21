@@ -28,5 +28,5 @@ Written and maintained by Kangjin Kim.
 
 <b>Citation:</b>
 <p>
-Kangjin Kim, Jaehyun Park, Sang-Chul Park, Sungho Won, (2018) <i>Phylogenetic  Tree-based Microbiome Association Test</i>, Submitted to <i>Bioinformatics</i>
+Kim, K., Park, J., Park, S., & Won, S.† (2020). Phylogenetic tree-based microbiome association test. <i>Bioinformatics</i>, 36(4), 1000-1006.
 </p>
