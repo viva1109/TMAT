@@ -1,8 +1,9 @@
 options(warn=-1)
-source_home<-"http://viva1109.iptime.org/"
-source(paste0(source_home,"RFunctions/FunctionsTMAT/functions_tree_down.R"),encoding = "UTF-8")
-source(paste0(source_home,"RFunctions/FunctionsTMAT/plot_TMAT.R"),encoding = "UTF-8")
-source(paste0(source_home,"RFunctions/FunctionsTMAT/funcs_TMAT.R"),encoding = "UTF-8")
+source_home<-"https://raw.githubusercontent.com/viva1109/TMAT/main/R/"
+source(paste0(source_home,"Funcs_tree_related.R"),encoding = "UTF-8")
+source(paste0(source_home,"Funcs_TMAT_statistics.R"),encoding = "UTF-8")
+source(paste0(source_home,"Plot_TMAT.R"),encoding = "UTF-8")
+
 library(stringr)
 library(raster, quietly = TRUE)
 suppressWarnings(suppressMessages(library(ape, quietly = TRUE)))
