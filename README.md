@@ -1,7 +1,7 @@
 # Phylogenetic  Tree-based Microbiome Association Test (TMAT)
 
 <div style="text-align:right">
-- Last updated: 2019-06-30
+- Last updated: 2021-12-21
 </div>
 
 <b>About the work</b>
@@ -18,9 +18,7 @@ Sungho Won, Ph.D &lt;won1@snu.ac.kr&gt;<br />
 Written and maintained by Kangjin Kim.
 </p>
 
-<b>Download</b>
 <table>
-<tr><td><a href="http://viva1109.iptime.org/RFunctions/FunctionsTMAT/TMAT.R" download>TMAT.R</a></td><td>&emsp;R function for TMAT</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/Manual.html">User Reference Guide</a></td><td>&emsp;A description for R function and example code</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/otu_comp_new_silva.txt"  download>Example metagenome data file</a></td><td>&emsp;An example metagenome data</td></tr>
 <tr><td><a href="http://viva1109.iptime.org/paper/TMAT/pheno_togo.csv"  download>Example metadata file</a></td><td>&emsp;An example metadata</td></tr>
