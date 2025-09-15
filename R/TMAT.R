@@ -37,6 +37,7 @@ TMAT<-function(Data_Read,Pheno,Tree,Taxonomy_Input,Response_Type="categorical",n
     data_db$sample_id<-data_db$sample_id[ind_remainSample]
     colnames(data_db$dataset)<-data_db$otu_id
     rownames(data_db$dataset)<-data_db$sample_id
+	data_db$ttr<-data_db$ttr[ind_remainSample]
     return(data_db)
   }
   Data_METAGENOME<-getDataList(Data_Read)
@@ -55,7 +56,7 @@ TMAT<-function(Data_Read,Pheno,Tree,Taxonomy_Input,Response_Type="categorical",n
     
     Groups<-pheno[ind_to_pheno,2]
     if(colto!=2){
-      Covs<-pheno[ind_to_pheno,3:colto]
+	  Covs<-pheno[ind_to_pheno,][3:colto]
       ind_go_samples<-complete.cases(Covs) & !is.na(Groups)
     }else{
       Covs<-NULL
